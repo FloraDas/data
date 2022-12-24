@@ -1,2 +1,2 @@
-# data.cw
+# data
 maternal Death By Cause
